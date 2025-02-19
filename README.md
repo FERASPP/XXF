@@ -6,6 +6,6 @@ pkg install git
 
 git clone https://github.com/FERASPP/XXF.git
 
-cd HOSTAED
+cd XXF
 
 python HOSTAED.py
